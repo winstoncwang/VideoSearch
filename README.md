@@ -76,3 +76,9 @@ App
 
     default video selected at every new search, initial term added and better layout
    
+---------------------------------------------
+
+2.1
+
+    netlify deployment using cli
+   
